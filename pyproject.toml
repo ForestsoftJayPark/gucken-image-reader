@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gucken-image-reader"
-version = "1.0.4"
-description = "MCP server for image reader using OpenAI vision API"
-readme = {file = "README.txt", content-type = "text/markdown"}
+version = "1.1.2"
+description = "MCP server for image reader using OpenAI vision API (gpt-4o-mini)"
+readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     { name = "Jay Pak", email = "jaypark@forestsoft.co.kr" }
 ]
