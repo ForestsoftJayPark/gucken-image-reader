@@ -10,10 +10,7 @@ load_dotenv()
 
 
 # Create MCP server
-mcp = FastMCP(
-    "gucken",
-    description="MCP server for image recognition using OpenAI API",
-)
+mcp = FastMCP("gucken")
 
 @mcp.tool()
 def describe_image(image_path: str) -> str:

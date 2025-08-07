@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: gucken-image-reader
-Version: 1.1.2
+Version: 1.1.3
 Summary: MCP server for image reader using OpenAI vision API (gpt-4o-mini)
 Author: Jay Pak
 Author-email: Jay Pak <jaypark@forestsoft.co.kr>
